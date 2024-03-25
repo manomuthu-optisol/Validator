@@ -24,7 +24,7 @@ spec.license      = { :type => "MIT", :file => "FILE_LICENSE" }
   # spec.authors            = { "Muthukumar" => "muthukumar.m@optisolbusiness.com" }
   # spec.social_media_url   = "https://twitter.com/Muthukumar"
 
-spec.platform     = :ios, "17.4"
+spec.platform     = :ios, "15"
 
   spec.source       = { :git => "https://github.com/manomuthu-optisol/Validator.git", :tag => spec.version.to_s }
 
